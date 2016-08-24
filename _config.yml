@@ -1,0 +1,14 @@
+layout_spectrum: 0.29669272410683334
+typography_spectrum: 0.6075593999121338
+color:
+  brandStrength: 0.374075936852023
+  lightness: 0.6350777812767774
+  saturation: 0.42945245024748147
+  rhythmicContrast: 0.038492239313200116
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: TestTheGrid
